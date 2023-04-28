@@ -1,0 +1,99 @@
+[2023-04-09 01:48:18] [ INFO ] [OdontologoService:33] Se creo el Odontologo: 
+[2023-04-09 01:49:16] [ INFO ] [OdontologoService:33] Se creo el Odontologo: EL DURO
+[2023-04-09 01:50:59] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZAEL DURO
+[2023-04-09 01:51:05] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZAEL DURO
+[2023-04-09 01:51:58] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZAEL DURO
+[2023-04-09 01:52:44] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 01:59:47] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 02:01:50] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 02:02:20] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 13:57:47] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 13:58:01] [ INFO ] [OdontologoService:39] Se acaba de eliminar el Odontologo con el id: 
+[2023-04-09 13:58:08] [ INFO ] [OdontologoService:39] Se acaba de eliminar el Odontologo con el id: 
+[2023-04-09 14:04:04] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 14:04:14] [ INFO ] [OdontologoService:39] Se acaba de eliminar el Odontologo con el id: 1
+[2023-04-09 14:08:24] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 14:08:33] [ INFO ] [OdontologoService:47] Se acaba de actualizar el Odontologo: {} 
+[2023-04-09 14:08:57] [ INFO ] [OdontologoService:47] Se acaba de actualizar el Odontologo: {} 
+[2023-04-09 14:11:12] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 14:11:20] [ INFO ] [OdontologoService:47] Se acaba de actualizar el Odontologo con el id: com.example.OdontologiaChecaORM.domain.Odontologo@3ab0c4b4
+[2023-04-09 14:14:01] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 14:14:08] [ INFO ] [OdontologoService:47] Se acaba de actualizar el Odontologo con el id: 1
+[2023-04-09 14:16:05] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 14:16:09] [ INFO ] [OdontologoService:47] Se acaba de actualizar el Odontologo con el id: 1llamado EL AAAAAAAA
+[2023-04-09 14:16:21] [ INFO ] [OdontologoService:47] Se acaba de actualizar el Odontologo con el id: 1llamado EL OYEEEEEEEE
+[2023-04-09 14:18:05] [ INFO ] [OdontologoService:33] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 14:18:16] [ INFO ] [OdontologoService:47] Se acaba de actualizar el Odontologo con el id: 1 llamado EL ARBOL
+[2023-04-09 14:23:37] [ INFO ] [OdontologoService:37] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 14:23:38] [ INFO ] [OdontologoService:37] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 14:23:40] [ INFO ] [OdontologoService:37] Se acaba de crear el Odontologo llamado: GONZA EL DURO
+[2023-04-09 14:25:39] [ INFO ] [OdontologoService:37] Se acaba de crear el Odontologo llamado: GONZA, EL DURO  con el siguiente numero de id:  null
+[2023-04-09 14:30:36] [ INFO ] [OdontologoService:37] Se acaba de crear el Odontologo llamado: GONZA, EL DURO  con el siguiente numero de matricula:  222323
+[2023-04-09 14:31:02] [ INFO ] [OdontologoService:37] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 14:31:21] [ INFO ] [OdontologoService:30] La cantidad de odontologos en la base de datos es de:  2
+[2023-04-09 15:08:30] [ INFO ] [OdontologoService:39] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 15:08:37] [ INFO ] [OdontologoService:25] Se acaba de encontrar el odontologo con el id: 1
+[2023-04-09 17:33:06] [ INFO ] [OdontologoService:39] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 17:33:21] [ INFO ] [OdontologoService:39] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 17:33:29] [ INFO ] [OdontologoService:32] La cantidad de odontologos en la base de datos es de:  2
+[2023-04-09 17:33:45] [ INFO ] [OdontologoService:25] Se acaba de encontrar el odontologo con el id: 1
+[2023-04-09 17:33:45] [ INFO ] [OdontologoService:53] Se acaba de actualizar el Odontologo con el id: 1 llamado EL ARBOL
+[2023-04-09 17:33:59] [ INFO ] [OdontologoService:45] Se acaba de eliminar el Odontologo con el id: 1
+[2023-04-09 17:52:02] [ INFO ] [OdontologoService:39] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 17:52:12] [ INFO ] [OdontologoService:25] Se acaba de encontrar el odontologo con el id: 3
+[2023-04-09 17:52:37] [ INFO ] [OdontologoService:32] La cantidad de odontologos en la base de datos es de:  2
+[2023-04-09 17:52:52] [ INFO ] [OdontologoService:25] Se acaba de encontrar el odontologo con el id: 5
+[2023-04-09 17:56:49] [ INFO ] [OdontologoService:32] La cantidad de odontologos en la base de datos es de:  2
+[2023-04-09 17:57:02] [ INFO ] [OdontologoService:45] Se acaba de eliminar el Odontologo con el id: 5
+[2023-04-09 18:43:27] [ INFO ] [OdontologoService:47] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 18:43:32] [ INFO ] [OdontologoService:47] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 18:43:41] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  2
+[2023-04-09 18:43:54] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 18:43:54] [ INFO ] [OdontologoService:68] Se acaba de actualizar el Odontologo con el id: 1 llamado EL ARBOL
+[2023-04-09 18:44:15] [ INFO ] [OdontologoService:58] No existe el odontologo con el id: 5
+[2023-04-09 18:44:33] [ WARN ] [OdontologoService:32] Error. No se pudo encontrar el odontologo con el id: 5
+[2023-04-09 18:44:50] [ WARN ] [OdontologoService:32] Error. No se pudo encontrar el odontologo con el id: 5
+[2023-04-09 19:03:09] [ INFO ] [OdontologoService:47] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 19:03:17] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 19:16:35] [ INFO ] [OdontologoService:47] Se acaba de crear el Odontologo llamado: AAAAAAAAAAAAAAA, Checa  con el siguiente numero de matricula:  1111
+[2023-04-09 19:16:46] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 19:17:36] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 19:17:45] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 19:17:50] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 19:18:04] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 19:18:13] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 19:18:15] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 19:43:21] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 19:43:33] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 19:57:08] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 19:57:13] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 19:57:16] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 20:07:34] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 20:07:42] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 20:07:45] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 20:10:25] [ INFO ] [OdontologoService:47] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 20:10:36] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 20:10:59] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 20:19:08] [ INFO ] [OdontologoService:47] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 20:19:09] [ INFO ] [OdontologoService:47] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 20:19:44] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 20:20:08] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  2
+[2023-04-09 20:46:27] [ INFO ] [OdontologoService:47] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 20:46:40] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 20:46:50] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 20:51:42] [ INFO ] [OdontologoService:47] Se acaba de crear el Odontologo llamado: LOCOMOTORA, CASTRO  con el siguiente numero de matricula:  2241
+[2023-04-09 20:51:54] [ INFO ] [OdontologoService:29] Se encontro el odontologo con el id: 1
+[2023-04-09 20:52:03] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 20:53:06] [ INFO ] [OdontologoService:40] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 23:54:10] [ INFO ] [OdontologoService:41] Se acaba de crear el Odontologo llamado: Juan, Ramos  con el siguiente numero de matricula:  987879
+[2023-04-09 23:54:10] [ INFO ] [OdontologoService:27] Se encontro el odontologo con el id: 1
+[2023-04-09 23:54:10] [ INFO ] [OdontologoService:36] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 23:54:10] [ INFO ] [OdontologoService:59] Se acaba de actualizar el Odontologo con el id: 1 llamado Juan
+[2023-04-09 23:54:10] [ INFO ] [OdontologoService:47] Se elimino el odontologo con el id: 1
+[2023-04-09 23:55:35] [ INFO ] [OdontologoService:41] Se acaba de crear el Odontologo llamado: Javier, Checa  con el siguiente numero de matricula:  987654321
+[2023-04-09 23:55:40] [ INFO ] [OdontologoService:36] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 23:56:22] [ INFO ] [OdontologoService:36] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 23:57:00] [ INFO ] [OdontologoService:36] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 23:58:05] [ INFO ] [OdontologoService:36] La cantidad de odontologos en la base de datos es de:  1
+[2023-04-09 23:58:12] [ INFO ] [OdontologoService:27] Se encontro el odontologo con el id: 1
+[2023-04-09 23:58:16] [ INFO ] [OdontologoService:36] La cantidad de odontologos en la base de datos es de:  1
